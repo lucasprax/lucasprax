@@ -1,11 +1,1 @@
-<h1 align="left"> Página Oficial de Lucas Praxedes </h1>
-<p>
-<br> ||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp||||||||||||||||&nbsp|||||||||||||||||&nbsp|||||||||||||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||||||||||||||&nbsp|||||||||||||||
-<br> ||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp|||||&nbsp&nbsp&nbsp&nbsp|||||
-<br> ||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||||||||||||||&nbsp|||||||||||||||||&nbsp&nbsp&nbsp&nbsp&nbsp|||||||||||||||||||&nbsp|||||||||||||||
-<br> ||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp|||||
-<br> ||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp||||||||
-<br> ||||||||||||||||&nbsp|||||||||||||||||||||&nbsp|||||||||||||||||&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp|||||||||||||||&nbsp&nbsp&nbsp&nbsp&nbsp||||||&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp&nbsp&nbsp&nbsp|||||&nbsp&nbsp|||||||| </p>
-  
-
-![index](https://user-images.githubusercontent.com/95758058/165165019-405744cd-8c63-459c-a226-76ab6e6c9dde.png)
+![LUTANDO DIARIAMENTE PARA MELHORAR](https://user-images.githubusercontent.com/95758058/177054085-c18a1b16-30fc-4876-95f1-382a54933499.png)
